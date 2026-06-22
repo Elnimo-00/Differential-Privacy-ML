@@ -95,11 +95,7 @@ numpy
 matplotlib
 ```
 
-also requires the htb_ai_library helper:
-
-```bash
-pip install git+https://github.com/PandaSt0rm/htb-ai-library
-```
+(also requires the htb_ai_library helper)
 
 ## dataset
 
