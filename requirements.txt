@@ -1,0 +1,6 @@
+torch
+torchvision
+opacus
+safetensors
+numpy
+matplotlib
